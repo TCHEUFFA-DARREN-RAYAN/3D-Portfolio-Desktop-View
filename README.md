@@ -1,5 +1,5 @@
 
-<a href="https://www.youtube.com/watch?v=BW2H0es4s58&list=PL67b5wgxuUtAP2ckCBi-ryBaZnRZi2nTj&index=6" target="_blank">
+<a>
   <img src="/thumbnail.png" alt="Thumbnail"/>
 </a>
 
@@ -15,7 +15,7 @@
 ## ✅ Creating a responsive and modern 3D landing page
 ## ✅ Best practices for performance optimization
 
-## This tutorial is perfect for beginners and advanced developers looking to add 3D effects to their web projects! 🎨💡
+
 
 ## 💻 Tools & Technologies:
 
@@ -23,8 +23,3 @@
 ## -Spline (3D Design & Animation)
 
 
----
-## Watch the full tutorial on YouTub
-<a href="https://www.youtube.com/watch?v=BW2H0es4s58&list=PL67b5wgxuUtAP2ckCBi-ryBaZnRZi2nTj&index=6">
-  <img src="/youtube.png" alt="youtube"/>
-</a>
